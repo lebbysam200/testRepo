@@ -1,2 +1,2 @@
 # testRepo
-# This is a tutorial on Xcode and git
+This is a tutorial on Xcode and git
